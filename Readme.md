@@ -1,3 +1,7 @@
+## Live demo
+
+https://sadee-neth.github.io/AR-Museum-Exhibit/
+
 # AR Mini Museum Assignment
 
 We built a mini AR museum for our group project using the Hiro marker. 
